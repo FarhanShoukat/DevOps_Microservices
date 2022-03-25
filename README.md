@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+![CircleCI](https://circleci.com/gh/FarhanShoukat/predict-housing-prices-docker-kubernetes.svg?style=svg)
 
 ## Project Overview
 
